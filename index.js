@@ -10,7 +10,3 @@ const testtiga = () => {
 const salah = () => {
     console.log("ini salahh")
 }
-
-const salahdua = () => {
-    console.log("ini salah dua")
-}
