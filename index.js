@@ -9,3 +9,7 @@ const testdua = () => {
 const testtiga = () => {
     console.log("test tiga")
 }
+
+const testtiga = () => {
+    console.log("test tiga")
+}
